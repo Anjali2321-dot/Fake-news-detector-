@@ -1,1 +1,2 @@
 # Fake-news-detector-
+In an age where misinformation spreads faster than facts, our project empowers users to check the authenticity of any news claim. By leveraging Flask, NewsAPI, and dynamic rendering with Jinja2, the system fetches real-time news articles related to a user's input and evaluates its credibility. With just a click, users can distinguish truth from fiction—helping make the internet a more informed place, one article at a time.
